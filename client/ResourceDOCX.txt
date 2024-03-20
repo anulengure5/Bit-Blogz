@@ -1,0 +1,1 @@
+flowbite is react components library --install with <npm i flowbite>
